@@ -1,0 +1,13 @@
+Acme Corp Remote Work Policy
+
+Employees may work remotely up to three days per week. All remote work must be
+approved in advance by a direct manager. Remote employees are required to be
+available online between 10:00 AM and 4:00 PM in their local time zone.
+
+Acme Corp provides a one-time home office stipend of 500 dollars to each remote
+employee. This stipend can be used for a desk, chair, or monitor. The stipend
+must be claimed within the first 90 days of employment.
+
+Company laptops must have full-disk encryption enabled before any remote work
+begins. Employees must connect through the company VPN when accessing internal
+systems from outside the office.

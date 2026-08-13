@@ -1,0 +1,12 @@
+[
+  {"id": 1, "question": "How many days per week can employees work remotely?", "answerable": true},
+  {"id": 2, "question": "How much is the home office stipend?", "answerable": true},
+  {"id": 3, "question": "Within how many days must the home office stipend be claimed?", "answerable": true},
+  {"id": 4, "question": "During what hours must remote employees be available online?", "answerable": true},
+  {"id": 5, "question": "What must employees use to access internal systems from outside the office?", "answerable": true},
+  {"id": 6, "question": "What security feature must company laptops have before remote work?", "answerable": true},
+  {"id": 7, "question": "What is the CEO's annual salary?", "answerable": false},
+  {"id": 8, "question": "What is the company's parental leave policy?", "answerable": false},
+  {"id": 9, "question": "How many paid vacation days do employees receive?", "answerable": false},
+  {"id": 10, "question": "What is Acme Corp's current stock price?", "answerable": false}
+]

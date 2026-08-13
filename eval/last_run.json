@@ -1,0 +1,88 @@
+{
+  "accuracy": 100.0,
+  "hallucination_rate": 0.0,
+  "refusal_accuracy": 100.0,
+  "avg_latency_sec": 53.84,
+  "results": [
+    {
+      "question": "How many days per week can employees work remotely?",
+      "answerable": true,
+      "refused": false,
+      "correct": true,
+      "latency_sec": 59.72,
+      "answer": "According to the context, employees may work remotely up to three days per week."
+    },
+    {
+      "question": "How much is the home office stipend?",
+      "answerable": true,
+      "refused": false,
+      "correct": true,
+      "latency_sec": 50.19,
+      "answer": "The home office stipend is $500."
+    },
+    {
+      "question": "Within how many days must the home office stipend be claimed?",
+      "answerable": true,
+      "refused": false,
+      "correct": true,
+      "latency_sec": 50.31,
+      "answer": "According to the context, the home office stipend must be claimed within the first 90 days of employment."
+    },
+    {
+      "question": "During what hours must remote employees be available online?",
+      "answerable": true,
+      "refused": false,
+      "correct": true,
+      "latency_sec": 50.19,
+      "answer": "Remote employees must be available online between 10:00 AM and 4:00 PM in their local time zone."
+    },
+    {
+      "question": "What must employees use to access internal systems from outside the office?",
+      "answerable": true,
+      "refused": false,
+      "correct": true,
+      "latency_sec": 50.57,
+      "answer": "Employees must connect through the company VPN when accessing internal systems from outside the office."
+    },
+    {
+      "question": "What security feature must company laptops have before remote work?",
+      "answerable": true,
+      "refused": false,
+      "correct": true,
+      "latency_sec": 52.54,
+      "answer": "Full-disk encryption."
+    },
+    {
+      "question": "What is the CEO's annual salary?",
+      "answerable": false,
+      "refused": true,
+      "correct": true,
+      "latency_sec": 54.16,
+      "answer": "I don't know. The context only provides information about Acme Corp's remote work policy and does not mention the CEO's salary."
+    },
+    {
+      "question": "What is the company's parental leave policy?",
+      "answerable": false,
+      "refused": true,
+      "correct": true,
+      "latency_sec": 56.58,
+      "answer": "I don't know. The context only provides information about remote work, home office stipend, and laptop encryption requirements, but it does not mention a parental leave policy."
+    },
+    {
+      "question": "How many paid vacation days do employees receive?",
+      "answerable": false,
+      "refused": true,
+      "correct": true,
+      "latency_sec": 56.45,
+      "answer": "I don't know. The context only discusses remote work policy, stipends, and technical requirements for remote work, but it doesn't mention paid vacation days."
+    },
+    {
+      "question": "What is Acme Corp's current stock price?",
+      "answerable": false,
+      "refused": true,
+      "correct": true,
+      "latency_sec": 57.72,
+      "answer": "I don't know. The context only provides information about Acme Corp's Remote Work Policy, and does not mention anything about the company's stock price."
+    }
+  ]
+}

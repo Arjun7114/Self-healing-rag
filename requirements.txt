@@ -1,5 +1,7 @@
 langgraph
 langchain
 langchain-community
+langchain-ollama
+langchain-text-splitters
 chromadb
-python-dotenv
+pydantic

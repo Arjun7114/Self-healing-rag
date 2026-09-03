@@ -1,5 +1,8 @@
 \## Self-Healing RAG
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/python-3.11-blue.svg)
+![LangGraph](https://img.shields.io/badge/LangGraph-RAG-green.svg)
 
 
 A Retrieval-Augmented Generation (RAG) system that verifies and retries its own
